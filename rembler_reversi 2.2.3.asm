@@ -1,4 +1,4 @@
-##### Authors: Rembler Group (Lan Vu, Tung Vu, Keyur Savjani, Roman Chernov).
+##### Author: Keyur Savjani
 ##### File: rembler_reversi.asm
 ##### MIPS reversi game implementation.
 ##### Bitmap Display settings: unit 4 x 4, display 1024 x 1024 or
